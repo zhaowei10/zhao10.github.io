@@ -1,4 +1,4 @@
-<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>import fa_comment from "@fortawesome/fontawesome-free/svgs/solid/comment.svg";
+import fa_comment from "@fortawesome/fontawesome-free/svgs/solid/comment.svg";
 import fa_paper_plane from "@fortawesome/fontawesome-free/svgs/solid/paper-plane.svg";
 import fa_user_circle from "@fortawesome/fontawesome-free/svgs/solid/circle-user.svg";
 import fa_street_view from "@fortawesome/fontawesome-free/svgs/solid/street-view.svg";

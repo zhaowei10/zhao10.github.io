@@ -1,4 +1,4 @@
-<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>// live2d_path 参数建议使用绝对路径
+// live2d_path 参数建议使用绝对路径
 const live2d_path = "https://fastly.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/";
 - const live2d_path = "https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget/";
 + const live2d_path = "/live2d-widget/";
